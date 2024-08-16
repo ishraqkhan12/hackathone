@@ -35,12 +35,15 @@
 /* ---------------banner section---------- */
 #banner{
     background-color: rgb(252, 241, 231);
-    height: 870px;
+    height: 100vh;
+}
+body{
+    background-color: rgb(252, 241, 231);
 }
 .title{
     /* font-family: Roboto; */
     font-weight: 800;
-    font-size: 72px;
+    font-size: 62px;
     /* color: linear-gradient(to left , #F857A6 #FF5858 ); */
     color: #f55e5e  ;
     margin: 15px 0;
